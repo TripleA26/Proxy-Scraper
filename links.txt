@@ -75,3 +75,4 @@ https://www.proxy-list.download/api/v1/get?type=http
 https://www.proxy-list.download/api/v1/get?type=https
 https://www.proxy-list.download/api/v1/get?type=socks4
 https://www.proxy-list.download/api/v1/get?type=socks5
+https://rcloak.com/api/proxies/raw?protocol=all
